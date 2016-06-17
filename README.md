@@ -1,6 +1,6 @@
 #Arch Install, my way!
 
-##Share Folders between OSX and LiveOS
+##How to get these config files into a liveOS from OSX:
 
 ###On Your Mac
 
