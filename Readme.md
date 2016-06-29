@@ -1,3 +1,8 @@
+#Arch install, my way!
+
+This will install Arch on a AES256 encrypted LVM
+containing swap, /root and /home
+
 ##Share Folders between OSX and LiveOS
 
 ###On Your Mac
